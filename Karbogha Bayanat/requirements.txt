@@ -1,0 +1,8 @@
+yt-dlp
+requests
+Pillow
+arabic_reshaper
+python-bidi
+opencv-python
+numpy
+tqdm
