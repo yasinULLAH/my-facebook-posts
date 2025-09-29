@@ -1,0 +1,4 @@
+Someone told me that this is AI written — but no, I wrote this myself — Yasin Ullah. Tools only act upon instructions; real credit belongs to people. History shows that we first mocked and then embraced every new technology — from paper to printing to photography. Today, the same opportunity stands before us: we must adopt these tools in the service of Islam and its message, before others shape the narrative in their own way.
+
+کسی نے کہا کہ یہ تحریر اے آئی نے لکھی ہے — مگر نہیں، یہ میں نے خود لکھا ہے — یاسین اللہ۔
+اوزار صرف ہدایات پر عمل کرتے ہیں؛ اصل کریڈٹ انسان کا ہوتا ہے۔ تاریخ گواہ ہے کہ ہم نے ہر نئی ٹیکنالوجی کا پہلے مذاق اڑایا اور پھر اسے اپنا لیا — چاہے وہ کاغذ ہو، طباعت یا تصویر۔ آج پھر وہی موقع ہمارے سامنے ہے: ہمیں ان جدید اوزاروں کو اسلام کی خدمت اور اس کے پیغام کے لیے اپنانا ہوگا، اس سے پہلے کہ دوسروں کے ہاتھوں ہماری کہانی کسی اور رنگ میں ڈھالی جائے۔

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1758884691626,
+    "find": "• ◆",
+    "replace": "◆",
+    "enabled": true
+  },
+  {
+    "id": 1758884710492,
+    "find": "\\r",
+    "replace": "",
+    "enabled": true
+  },
+  {
+    "id": 1758884880801,
+    "find": "\\n\\n",
+    "replace": "\\n",
+    "enabled": false
+  },
+  {
+    "id": 1758966964324,
+    "find": "\\[.*\\]",
+    "replace": "",
+    "enabled": true
+  },
+  {
+    "id": 1759059518971,
+    "find": "⬅ ◆",
+    "replace": "⬅",
+    "enabled": true
+  },
+  {
+    "id": 1759059533855,
+    "find": "◆ ➡",
+    "replace": "➡",
+    "enabled": true
+  },
+  {
+    "id": 1759059547873,
+    "find": "⟪ ◆",
+    "replace": "⟪",
+    "enabled": true
+  },
+  {
+    "id": 1759059561285,
+    "find": "◆ ⟫",
+    "replace": "⟫",
+    "enabled": true
+  },
+  {
+    "id": 1759060148281,
+    "find": "([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚])[^\\r\\n]*◆",
+    "replace": "$1",
+    "enabled": true
+  },
+  {
+    "id": 1759133169753,
+    "find": "؛",
+    "replace": "،",
+    "enabled": true
+  },
+  {
+    "id": 1759147884975,
+    "find": ";",
+    "replace": ",",
+    "enabled": true
+  }
+]
